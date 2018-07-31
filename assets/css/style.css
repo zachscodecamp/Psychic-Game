@@ -1,0 +1,9 @@
+
+body {
+    font: normal 10px Verdana, Arial, sans-serif;
+  }
+  
+  div {
+      margin-left: 20px;
+      display: inline-block; 
+  }
